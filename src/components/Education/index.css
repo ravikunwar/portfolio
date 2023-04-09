@@ -1,0 +1,30 @@
+.education{
+    text-align: start;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+.education-section{
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.image-section{
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+
+.education-name{
+    /* line-height: 1.5px; */
+    font-size: 20px;
+}
+
+/* .educaton-title{
+    line-height: 0.1;
+} */
+
+.education-score{
+    font-size: 13px;
+}

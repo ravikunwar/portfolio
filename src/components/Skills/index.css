@@ -1,0 +1,17 @@
+.professionalskills{
+    text-align: start;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+.skill-row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.skill-title{
+    margin-right: 10px;
+}
+
+.skill-tag{}

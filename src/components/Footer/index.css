@@ -1,0 +1,27 @@
+.footer{
+    text-align: start;
+    padding-left: 22%;
+    padding-right: 22%;
+    margin-top: 40px;
+    background-color: #333;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-messages{
+    text-align: center;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.build-msg{
+    font-size: 13px;
+}
+
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-left: 10%;
+}

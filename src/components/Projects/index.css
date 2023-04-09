@@ -1,0 +1,20 @@
+.projects{
+    text-align: start;
+    padding-left: 18%;
+    padding-right: 18%;
+    margin-top: 50px;
+}
+
+.project{
+    margin-bottom: 50px;
+}
+
+.project-title{
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.project-desc{
+    font-size: 13px;
+    margin-bottom: 15px;
+}
